@@ -4,7 +4,10 @@
     {
       "id": "8160afdda7b5d11e41cb510d677c1b68",
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "height":150,
+        "base_height": 150
+      },
       "geometry": {
         "coordinates": [
           [
