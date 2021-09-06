@@ -11,13 +11,10 @@
          "type":"Feature",
          "id":8,
          "properties":{
-            "height":30,
-            "base_height": 20,
+            "height":150,
+            "base_height": 150,
             "id":8,
-            "totale_positivi":0,
-            "color:": "#eee",
-            "dimessi_guariti":0,
-            "deceduti":0,
+            "color:": "#fffef0",
             "name":"emilia-romagna",
             "length":1164723.05925,
             "area":22451465521.900001525878906
